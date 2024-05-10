@@ -13,3 +13,92 @@
 [2024-05-10 02:39:43.052056] Created file: replica_folder\File_2.txt
 [2024-05-10 02:39:43.054067] Created file: replica_folder\test_Folder\File_3.txt
 [2024-05-10 02:39:43.054067] Sync operation completed
+[2024-05-10 02:53:32.799297] Staring Synchronization
+[2024-05-10 02:53:32.799297] Sync operation started
+[2024-05-10 02:53:32.800275] Sync operation completed
+[2024-05-10 02:59:32.013207] Starting Synchronization
+[2024-05-10 02:59:32.014139] Sync operation started
+[2024-05-10 02:59:32.016211] Sync operation completed
+[2024-05-10 02:59:39.739238] Starting Synchronization
+[2024-05-10 02:59:39.740238] Sync operation started
+[2024-05-10 02:59:39.747810] Created file: replica_folder\File_1.txt
+[2024-05-10 02:59:39.748811] Created file: replica_folder\File_2.txt
+[2024-05-10 02:59:39.748811] Sync operation completed
+[2024-05-10 02:59:58.205045] Starting Synchronization
+[2024-05-10 02:59:58.206043] Sync operation started
+[2024-05-10 02:59:58.212550] Created folder: replica_folder\test_Folder\test_Folder_2
+[2024-05-10 02:59:58.217555] Created file: replica_folder\File_1.txt
+[2024-05-10 02:59:58.218556] Updated file: replica_folder\File_2.txt
+[2024-05-10 02:59:58.219555] Created file: replica_folder\test_Folder\test_Folder_2\File_4.txt
+[2024-05-10 02:59:58.220556] Sync operation completed
+[2024-05-10 03:00:28.221383] Sync operation started
+[2024-05-10 03:00:28.223369] Sync operation completed
+[2024-05-10 03:01:23.886040] Starting Synchronization
+[2024-05-10 03:01:23.887058] Sync operation started
+[2024-05-10 03:01:23.892040] Created folder: replica_folder\test_Folder
+[2024-05-10 03:01:23.899349] Created folder: replica_folder\test_Folder\Empty_Folder
+[2024-05-10 03:01:23.903538] Created folder: replica_folder\test_Folder\test_Folder_2
+[2024-05-10 03:01:23.904539] Created file: replica_folder\File_1.txt
+[2024-05-10 03:01:23.905538] Created file: replica_folder\File_2.txt
+[2024-05-10 03:01:23.906538] Created file: replica_folder\test_Folder\File_3.txt
+[2024-05-10 03:01:23.907539] Created file: replica_folder\test_Folder\test_Folder_2\File_4.txt
+[2024-05-10 03:01:23.908540] Sync operation completed
+[2024-05-10 03:03:23.286105] Starting Synchronization
+[2024-05-10 03:03:23.286105] Sync operation started
+[2024-05-10 03:03:23.291085] Sync operation completed
+[2024-05-10 03:03:32.600444] Starting Synchronization
+[2024-05-10 03:03:32.600444] Sync operation started
+[2024-05-10 03:03:32.604798] Created folder: replica_folder\test_Folder
+[2024-05-10 03:03:32.607760] Created folder: replica_folder\test_Folder\Empty_Folder
+[2024-05-10 03:03:32.610759] Created folder: replica_folder\test_Folder\test_Folder_2
+[2024-05-10 03:03:32.613268] Created file: replica_folder\File_1.txt
+[2024-05-10 03:03:32.614267] Created file: replica_folder\File_2.txt
+[2024-05-10 03:03:32.615267] Created file: replica_folder\test_Folder\File_3.txt
+[2024-05-10 03:03:32.616267] Created file: replica_folder\test_Folder\test_Folder_2\File_4.txt
+[2024-05-10 03:03:32.616267] Sync operation completed
+[2024-05-10 03:04:02.617424] Sync operation started
+[2024-05-10 03:04:02.617928] Sync operation completed
+[2024-05-10 03:06:31.570081] Starting Synchronization
+[2024-05-10 03:06:31.570081] Sync operation started
+[2024-05-10 03:06:31.579248] Sync operation completed
+[2024-05-10 03:07:05.968341] Starting Synchronization
+[2024-05-10 03:07:05.968341] Sync operation started
+[2024-05-10 03:07:05.974247] Deleted folder: replica_folder\test_Folder
+[2024-05-10 03:07:05.979247] Error occurred during synchronization: [WinError 3] O sistema não conseguiu localizar o caminho especificado: 'replica_folder\\test_Folder\\Empty_Folder'
+[2024-05-10 03:07:24.573794] Starting Synchronization
+[2024-05-10 03:07:24.573794] Sync operation started
+[2024-05-10 03:07:24.579794] Sync operation completed
+[2024-05-10 03:07:53.964174] Starting Synchronization
+[2024-05-10 03:07:53.964174] Sync operation started
+[2024-05-10 03:07:53.972074] Created folder: replica_folder\test_Folder
+[2024-05-10 03:07:53.979584] Created folder: replica_folder\test_Folder\Empty_Folder
+[2024-05-10 03:07:53.985729] Created folder: replica_folder\test_Folder\test_Folder_2
+[2024-05-10 03:07:53.986728] Created file: replica_folder\File_1.txt
+[2024-05-10 03:07:53.988728] Created file: replica_folder\File_2.txt
+[2024-05-10 03:07:53.989728] Created file: replica_folder\test_Folder\File_3.txt
+[2024-05-10 03:07:53.990752] Created file: replica_folder\test_Folder\test_Folder_2\File_4.txt
+[2024-05-10 03:07:53.990752] Sync operation completed
+[2024-05-10 03:08:47.016449] Starting Synchronization
+[2024-05-10 03:08:47.016449] Sync operation started
+[2024-05-10 03:08:47.021445] Sync operation completed
+[2024-05-10 03:09:16.947449] Starting Synchronization
+[2024-05-10 03:09:16.948448] Sync operation started
+[2024-05-10 03:09:16.953687] Sync operation completed
+[2024-05-10 03:09:22.779682] Starting Synchronization
+[2024-05-10 03:09:22.780681] Sync operation started
+[2024-05-10 03:09:22.785226] Created folder: replica_folder\test_Folder
+[2024-05-10 03:09:22.791226] Created folder: replica_folder\test_Folder\Empty_Folder
+[2024-05-10 03:09:22.794336] Created folder: replica_folder\test_Folder\test_Folder_2
+[2024-05-10 03:09:22.795313] Created file: replica_folder\File_1.txt
+[2024-05-10 03:09:22.796313] Created file: replica_folder\File_2.txt
+[2024-05-10 03:09:22.797313] Created file: replica_folder\test_Folder\File_3.txt
+[2024-05-10 03:09:22.798313] Created file: replica_folder\test_Folder\test_Folder_2\File_4.txt
+[2024-05-10 03:09:22.798313] Sync operation completed
+[2024-05-10 04:02:51.108423] Starting Synchronization
+[2024-05-10 04:02:51.111396] Sync operation started
+[2024-05-10 04:02:51.120395] Sync operation completed
+[2024-05-10 04:03:06.732252] Starting Synchronization
+[2024-05-10 04:03:06.732252] Sync operation started
+[2024-05-10 04:03:06.741198] Created folder: replica_folder\test_Folder\Empty_Folder
+[2024-05-10 04:03:06.745198] Created file: replica_folder\File_1.txt
+[2024-05-10 04:03:06.746223] Sync operation completed
