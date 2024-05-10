@@ -40,6 +40,7 @@ class TestSyncManager(unittest.TestCase):
             replica_content = replica_file.read()
             self.assertEqual(source_content, replica_content)
 
+        self.logger.log_activity(f"{self.replica_dir} contents match {self.source_dir}")
         self.logger.log_activity("Test for synchronizing files passed")
 
 

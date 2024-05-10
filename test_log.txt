@@ -1,6 +1,0 @@
-[2024-05-10 04:02:37.359305] Starting tests
-[2024-05-10 04:02:37.360289] Starting Synchronization
-[2024-05-10 04:02:37.360289] Sync operation started
-[2024-05-10 04:02:37.362319] Sync operation completed
-[2024-05-10 04:02:37.362319] Test for synchronizing files passed
-[2024-05-10 04:02:37.363292] Completed tests
