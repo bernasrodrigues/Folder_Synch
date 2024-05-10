@@ -1,0 +1,15 @@
+[2024-05-10 02:39:06.882942] Staring Synchronization
+[2024-05-10 02:39:06.883943] Sync operation started
+[2024-05-10 02:39:06.884942] Sync operation completed
+[2024-05-10 02:39:31.610334] Staring Synchronization
+[2024-05-10 02:39:31.612036] Sync operation started
+[2024-05-10 02:39:31.617041] Deleted folder: replica_folder\test_Folder\aaaaaa
+[2024-05-10 02:39:31.622767] Created file: replica_folder\File_1.txt
+[2024-05-10 02:39:31.623768] Created file: replica_folder\test_Folder\test_Folder_2\File_4.txt
+[2024-05-10 02:39:31.623768] Sync operation completed
+[2024-05-10 02:39:43.037008] Staring Synchronization
+[2024-05-10 02:39:43.038025] Sync operation started
+[2024-05-10 02:39:43.045553] Created file: replica_folder\File_1.txt
+[2024-05-10 02:39:43.052056] Created file: replica_folder\File_2.txt
+[2024-05-10 02:39:43.054067] Created file: replica_folder\test_Folder\File_3.txt
+[2024-05-10 02:39:43.054067] Sync operation completed
