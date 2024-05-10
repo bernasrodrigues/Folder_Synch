@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c056b7-9058-46e8-af2e-083e39cc0b05" name="Changes" comment="updated .gitignore">
-      <change afterPath="$PROJECT_DIR$/test_cases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_source_folder/File_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_source_folder/test_folder/File_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/replica_folder/File_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/replica_folder/File_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/replica_folder/test_Folder/File_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/replica_folder/test_Folder/test_Folder_2/File_4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sync_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sync_log.txt" afterDir="false" />
-    </list>
+    <list default="true" id="94c056b7-9058-46e8-af2e-083e39cc0b05" name="Changes" comment="updated .gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,17 +47,18 @@
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="FolderSynch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\MSI\AppData\Local\Programs\Python\Python311\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
@@ -110,7 +101,7 @@
       <updated>1715123501638</updated>
       <workItem from="1715123502881" duration="9570000" />
       <workItem from="1715184786219" duration="2378000" />
-      <workItem from="1715303113769" duration="6999000" />
+      <workItem from="1715303113769" duration="7275000" />
     </task>
     <task id="LOCAL-00001" summary="Folder Synch">
       <option name="closed" value="true" />
